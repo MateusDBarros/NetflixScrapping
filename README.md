@@ -1,4 +1,4 @@
-# Netflix Mystery TV Shows Scraper
+# Netflix TV Shows Scraper
 
 Este projeto é um script em Python que acessa uma página da Netflix e extrai informações sobre filmes ou séries de mistério, coletando os títulos e as descrições dos itens listados.
 
